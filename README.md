@@ -3,8 +3,11 @@ Dette er et repository for vedlegg til Elkraft gruppe 3 ved USN Porsgrunn sin ba
 
 Alle vedlegg er referert til fra selve bacholor oppgaven som vedlegg i GitHub. 
 
+
 Det er strukturert i tre mapper. 
+
 #Matlab: Matlab program for simulering av av jernbanenett med tilhørende Smart regulering og omgivelseskontroller som er brukt til testing.
+
 #Python: Består av en rekke python program
           - Analyse belastningsdata.v1.0.py: Program for analyse av historiske belastningsdata før og etter implementering av Smart regulering. 
           - Effektoverføring.py: Program for å se på effektoverføring spenning og fasevinkel. 
