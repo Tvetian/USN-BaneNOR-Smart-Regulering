@@ -6,7 +6,7 @@ Alle vedlegg er referert til fra selve bacholor oppgaven som vedlegg i GitHub.
 
 Det er strukturert i tre mapper. 
 
-Matlab: Matlab program for simulering av av jernbanenett med tilhørende Smart regulering og omgivelseskontroller som er brukt til testing.
+Matlab: Matlab program for simulering av av jernbanenett med tilhørende Smart regulering og omgivelseskontroller. Programmet er brukt til testing av effekten av omgivelseskontrolleren.
 
 Python: Består av en rekke python program
 
